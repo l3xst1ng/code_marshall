@@ -2,7 +2,7 @@
 
 # Code Marshall
 
-Welcome to Code Marshall! This command-line application is designed to help users easily store, organize, and manage your code snippets. Whether you're a programmer, a developer, or just someone who loves to collect useful pieces of code, this tool is perfect for you.
+Code Marshall is a command-line application is designed to help users easily store, organize, and manage code snippets. Whether you're a programmer, a developer, or just someone who loves to collect useful pieces of code, this tool is perfect for you.
 
 ## Features
 
@@ -85,6 +85,14 @@ Here are a few examples to help you get started:
    ```
    view 1
    ```
+4. List all snippets:
+```
+   list snippets
+   ```
+   or
+```
+   ls snippets
+   ```
 
 4. Update a snippet's title:
    ```
@@ -109,8 +117,6 @@ If you'd like to contribute to Code Marshall, you can:
 
 - Report bugs or suggest improvements by opening an issue on the GitHub repository.
 - Fork the repository, make your changes, and submit a pull request.
-
-We appreciate your contributions!
 
 ## License
 
