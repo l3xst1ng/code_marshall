@@ -1,6 +1,6 @@
 
 
-# Code Marshall
+# Description
 
 Code Marshall is a command-line application is designed to help users easily store, organize, and manage code snippets. Whether you're a programmer, a developer, or just someone who loves to collect useful pieces of code, this tool is perfect for you.
 
